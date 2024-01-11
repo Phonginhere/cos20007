@@ -1,0 +1,15 @@
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfoInputs.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfo.cs
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/bin/Debug/net7.0/CounterTask
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/bin/Debug/net7.0/CounterTask.deps.json
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/bin/Debug/net7.0/CounterTask.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/bin/Debug/net7.0/CounterTask.pdb
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/refint/CounterTask.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.pdb
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.genruntimeconfig.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/ref/CounterTask.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/obj/Debug/net7.0/CounterTask.sourcelink.json

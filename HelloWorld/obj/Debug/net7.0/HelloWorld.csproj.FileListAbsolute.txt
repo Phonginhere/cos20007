@@ -1,0 +1,15 @@
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
+/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/obj/Debug/net7.0/HelloWorld.sourcelink.json

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAlnbBcyID+3clVoDPr+g7mG/k8K5l9dj3Qv1wuD3AMPA83ixF3tFr+4doX7LwMZ9evwQNSUO/yP5XsfnVm1tQ==",
+  "success": true,
+  "projectFilePath": "/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/phongporter/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/phongporter/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/phongporter/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
