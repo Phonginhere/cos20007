@@ -1,0 +1,15 @@
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.GeneratedMSBuildEditorConfig.editorconfig
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.AssemblyInfoInputs.cache
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.AssemblyInfo.cs
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.csproj.CoreCompileInputs.cache
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.sourcelink.json
+E:\cos20007\TheFirstOwnSplashKit\bin\Debug\net7.0\TheFirstOwnSplashKit.exe
+E:\cos20007\TheFirstOwnSplashKit\bin\Debug\net7.0\TheFirstOwnSplashKit.deps.json
+E:\cos20007\TheFirstOwnSplashKit\bin\Debug\net7.0\TheFirstOwnSplashKit.runtimeconfig.json
+E:\cos20007\TheFirstOwnSplashKit\bin\Debug\net7.0\TheFirstOwnSplashKit.dll
+E:\cos20007\TheFirstOwnSplashKit\bin\Debug\net7.0\TheFirstOwnSplashKit.pdb
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.dll
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\refint\TheFirstOwnSplashKit.dll
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.pdb
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\TheFirstOwnSplashKit.genruntimeconfig.cache
+E:\cos20007\TheFirstOwnSplashKit\obj\Debug\net7.0\ref\TheFirstOwnSplashKit.dll

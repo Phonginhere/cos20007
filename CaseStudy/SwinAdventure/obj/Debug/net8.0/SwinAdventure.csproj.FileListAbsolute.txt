@@ -1,0 +1,15 @@
+E:\cos20007\CaseStudy\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+E:\cos20007\CaseStudy\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+E:\cos20007\CaseStudy\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+E:\cos20007\CaseStudy\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+E:\cos20007\CaseStudy\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.sourcelink.json
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+E:\cos20007\CaseStudy\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
