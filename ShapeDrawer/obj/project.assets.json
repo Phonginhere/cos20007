@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\cos20007\\ShapeDrawer\\ShapeDrawer.csproj",
+      "projectUniqueName": "E:\\GITHUB\\cos20007\\ShapeDrawer\\ShapeDrawer.csproj",
       "projectName": "ShapeDrawer",
-      "projectPath": "E:\\cos20007\\ShapeDrawer\\ShapeDrawer.csproj",
+      "projectPath": "E:\\GITHUB\\cos20007\\ShapeDrawer\\ShapeDrawer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\cos20007\\ShapeDrawer\\obj\\",
+      "outputPath": "E:\\GITHUB\\cos20007\\ShapeDrawer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

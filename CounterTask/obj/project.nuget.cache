@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2CylNkLl/azybHFajLEm+Wnd+zH7D34Fj1LQdbRLcLlTAqZOM0OqrfrrRBVgnDHMEEcLd8U6Hq1KL7PIcYBEDg==",
+  "dgSpecHash": "5qjuN722Oqv54XOwU+3NXzbtC/GXYa/dc2q/LGGtlUahINCN3dq26jcWRbeym9SCQbzLRhDvxPQCQiGA/Bdcqg==",
   "success": true,
-  "projectFilePath": "/Users/phongporter/Library/CloudStorage/OneDrive-SwinburneUniversity/GITHUB/cos20007/CounterTask/CounterTask.csproj",
+  "projectFilePath": "E:\\GITHUB\\cos20007\\CounterTask\\CounterTask.csproj",
   "expectedPackageFiles": [
-    "/Users/phongporter/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/phongporter/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/phongporter/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

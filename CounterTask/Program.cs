@@ -12,16 +12,16 @@ namespace CounterTask
             myCounters[0] = new Counter("Counter 1");
             myCounters[1] = new Counter("Counter 2");
             myCounters[2] = myCounters[0];
-
+                
             //loop i from 0 to 9, by using for loop
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i <= 9; i++)
             {
                 //call Increment method of Counter object at index 0
                 myCounters[0].Increment();
 
             }
             //loop i from 0 to 14, by using for loop
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i <= 14; i++)
             {
                 //call Increment method of Counter object at index 1
                 myCounters[1].Increment();
